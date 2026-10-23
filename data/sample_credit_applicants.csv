@@ -1,0 +1,9 @@
+﻿age,annual_income,employment_years,debt_to_income,credit_history_months,missed_payments,housing,employment_type
+32,4800000,5,0.29,74,1,rent,full_time
+27,3000000,2,0.40,22,3,rent,part_time
+45,7400000,14,0.22,172,0,mortgage,full_time
+38,6100000,8,0.27,115,1,rent,contract
+24,2700000,1,0.43,11,3,rent,part_time
+52,9000000,20,0.18,265,0,mortgage,full_time
+41,6600000,10,0.25,140,0,mortgage,full_time
+30,4200000,4,0.33,47,2,rent,contract
